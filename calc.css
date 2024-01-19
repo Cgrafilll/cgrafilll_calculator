@@ -20,13 +20,13 @@ main {
 }
 
 main #window {
+  margin: 20px 0;
   text-align: right;
   background: transparent;
   color: #fff;
   height: 50px;
   width: 100%;
   padding: 12px 20px;
-  margin: 20px 0;
   box-sizing: border-box;
   outline: solid;
   font-size: 40px;
