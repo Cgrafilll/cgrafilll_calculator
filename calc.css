@@ -55,3 +55,7 @@ main .bot input#eql {
   color: #fff;
   background: transparent;
 }
+
+main form input {
+  color: #fff;
+}
