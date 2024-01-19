@@ -45,6 +45,10 @@ main div button {
   color: #fff;
 }
 
+main .bot {
+  margin: 0 0 0 20px;
+}
+
 main .bot input#eql {
   height: 50px;
   width: 158px;
