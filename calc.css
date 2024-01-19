@@ -13,7 +13,7 @@ main {
   height: 340px;
   padding: 20px;
   border: 5px solid #333;
-  background-image: url('picture.jpg'); 
+  background-image: url('picture.png'); 
   background-size: cover; 
   background-position: center; 
   
